@@ -5,16 +5,13 @@
 #### Technical Skills: Python, Qiskit, MATLAB, Pytorch
 
 ## Education 			        		
-- B.S., CSE | North South University (_Jun 2023_)
+- B.S., Computer Science & Engineering | North South University (_Jun 2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Teaching Assistant @ North South University (_June 2022 - Sep 2022_)**
+- Assisting faculty with course material and assesment. 
+- Proctored examinations alongside assigned faculty.
+- Provided course related support for students.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
