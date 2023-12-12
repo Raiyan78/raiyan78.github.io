@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, Qiskit, MATLAB, Pytorch
 
+
 ## Education 			        		
 - B.S.CSE | North South University (_Jun 2023_)
 
