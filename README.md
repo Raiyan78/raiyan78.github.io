@@ -27,11 +27,15 @@ Publication
 -->
 In recent years, large language models have shown significant progress in question-answering tasks, but they face challenges like hallucination and misinformation. EkattorQA, a new Open Source Conversational AI-based system, addresses these concerns by combining LLMs with human-verified data sources, specifically for Bangladesh History. This approach shows promise for scalable chat models in specific domains.
 
-![Bike Study](/assets/img/eqa.jpg)
+![Ekattor QA](/assets/img/eqa.png)
 
 ### Predictive modeling of consumer purchase behavior on social media: integrating theory of planned behavior and machine learning for actionable insights
 [Under Review](https://journals.plos.org/plosone/)
 The idea of planned behavior, a psychological framework, and machine learning have all been combined in this study to produce models that accurately predict consumer purchasing behavior. The inclusion of XAI also explores the most significant influencing factors that drive online purchasing.
+
+### Artemis-Shoes
+[Github](https://github.com/Raiyan78/Artemis-Shoes)
+This was developed as a part of our Junior Design Course(CSE299). Our project features Django Rest API as the robust backend and React at the forefront. We offer latest trends with the scalability of Django and the dynamic responsiveness of React, setting a new standard for the convergence of technology.
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
