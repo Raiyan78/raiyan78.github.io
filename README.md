@@ -4,7 +4,7 @@
 #### Technical Skills: Python, Qiskit, MATLAB, Pytorch
 
 ## Education 			        		
-- B.S., Computer Science & Engineering | North South University (_Jun 2023_)
+- BACHELOR OF SCIENCE IN COMPUTER SCIENCE AND ENGINEERING | North South University (_Jun 2023_)
 
 ## Work Experience
 **Teaching Assistant @ North South University (_June 2022 - Sep 2022_)**
