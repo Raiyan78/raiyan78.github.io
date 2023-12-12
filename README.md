@@ -13,8 +13,8 @@
 - Provided course related support for students.
 
 ## Links 
--[Linkedin](https://www.linkedin.com/in/raiyan78)
--[Google Scholar](https://scholar.google.com/citations?user=QrDmxHwAAAAJ&hl=en)
+- [Linkedin](https://www.linkedin.com/in/raiyan78)
+- [Google Scholar](https://scholar.google.com/citations?user=QrDmxHwAAAAJ&hl=en)
 
 ## Projects
 ### A Secure Image Transmission Scheme Using Chaos and Quantum Entanglement
