@@ -29,6 +29,10 @@ In recent years, large language models have shown significant progress in questi
 
 ![Bike Study](/assets/img/eqa.jpg)
 
+### Predictive modeling of consumer purchase behavior on social media: integrating theory of planned behavior and machine learning for actionable insights
+[Under Review](https://journals.plos.org/plosone/)
+The idea of planned behavior, a psychological framework, and machine learning have all been combined in this study to produce models that accurately predict consumer purchasing behavior. The inclusion of XAI also explores the most significant influencing factors that drive online purchasing.
+
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
