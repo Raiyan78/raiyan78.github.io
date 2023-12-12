@@ -19,7 +19,7 @@
 
 Conventional cryptographic systems are facing unprecedented threats from quantum computing, especially in optical communication. To tackle this, this research proposes a novel secure image transmission scheme that combines quantum key distribution (QKD) with chaotic maps. This scheme leverages the unpredictability of chaos and the robust security of quantum entanglement, further enhanced by an eavesdropping detection mechanism. Simulations demonstrate the scheme's effectiveness in image encryption, achieving high entropy and sensitivity. The results highlight improved efficiency and the scheme's potential as a viable solution against quantum computing vulnerabilities. This work offers a fresh perspective on secure optical communication, merging chaos theory and QKD for a stronger cryptographic framework.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![QKD Based Image Transmission](/assets/img/sit.jpg)
 
 ### EkattorQA: An Open Source Conversational AI-Based Question Answering System applied in the context of Bangladeshi History
 <!---
@@ -27,7 +27,7 @@ Publication
 -->
 In recent years, large language models have shown significant progress in question-answering tasks, but they face challenges like hallucination and misinformation. EkattorQA, a new Open Source Conversational AI-based system, addresses these concerns by combining LLMs with human-verified data sources, specifically for Bangladesh History. This approach shows promise for scalable chat models in specific domains.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/eqa.jpg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
