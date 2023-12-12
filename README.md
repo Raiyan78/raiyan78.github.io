@@ -12,6 +12,10 @@
 - Proctored examinations alongside assigned faculty.
 - Provided course related support for students.
 
+## Links 
+-[Linkedin](https://www.linkedin.com/in/raiyan78)
+-[Google Scholar](https://scholar.google.com/citations?user=QrDmxHwAAAAJ&hl=en)
+
 ## Projects
 ### A Secure Image Transmission Scheme Using Chaos and Quantum Entanglement
 [arXiv](https://arxiv.org/abs/2311.18471)
@@ -45,8 +49,7 @@ This was developed as a part of our Junior Design Course(CSE299). Our project fe
 ## Publications
 1. Rahman, R., Azad, M. S., Hasan, M. R., Shubha, S. E. U., & Mahdy, M. R. C. (2023, November 30). Enhancing the security of image transmission in Quantum era: A Chaos-Assisted QKD Approach using entanglement. ArXiv.org. https://doi.org/10.48550/arXiv.2311.18471
 
-## Links 
-[Linkedin](https://www.linkedin.com/in/raiyan78)
+
 
 
 
