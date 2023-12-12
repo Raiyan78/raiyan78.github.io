@@ -13,10 +13,10 @@
 - Provided course related support for students.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### A Secure Image Transmission Scheme Using Chaos and Quantum Entanglement
+[arXiv](https://arxiv.org/abs/2311.18471)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The emergence of quantum computing has introduced unprecedented security challenges to conventional cryptographic systems, particularly in the domain of optical communications. This research addresses these challenges by innovatively combining quantum key distribution (QKD), specifically the E91 protocol, with logistic chaotic maps to establish a secure image transmission scheme. Our approach utilizes the unpredictability of chaotic systems alongside the robust security mechanisms inherent in quantum entanglement. The scheme is further fortified with an eavesdropping detection mechanism based on CHSH inequality, thereby enhancing its resilience against unauthorized access. Through quantitative simulations, we demonstrate the effectiveness of this scheme in encrypting images, achieving high entropy and sensitivity to the original images. The results indicate a significant improvement in encryption and decryption efficiency, showcasing the potential of the scheme as a viable solution against the vulnerabilities posed by quantum computing advancements. Our research offers a novel perspective in secure optical communications, blending the principles of chaos theory with QKD to create a more robust cryptographic framework.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
