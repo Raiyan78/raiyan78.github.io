@@ -1,4 +1,3 @@
-# Raiyan Rahman
 
 # Researcher
 
