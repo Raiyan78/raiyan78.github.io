@@ -7,7 +7,7 @@
 
 ## Work Experience
 **Teaching Assistant @ North South University (_June 2022 - Sep 2022_)**
-- Assisting faculty with course material and assesment. 
+- Assisting faculty with course material and assessment. 
 - Proctored examinations alongside assigned faculty.
 - Provided course related support for students.
 
