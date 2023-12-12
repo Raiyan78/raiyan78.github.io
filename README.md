@@ -31,7 +31,11 @@ In recent years, large language models have shown significant progress in questi
 
 ### Predictive modeling of consumer purchase behavior on social media: integrating theory of planned behavior and machine learning for actionable insights
 [Under Review](https://journals.plos.org/plosone/)
+
 The idea of planned behavior, a psychological framework, and machine learning have all been combined in this study to produce models that accurately predict consumer purchasing behavior. The inclusion of XAI also explores the most significant influencing factors that drive online purchasing.
+(/assets/img/Radarplot.png)
+(/assets/img/ConfusionMatrix.png)
+(/assets/img/learningcurve.png)
 
 ### Artemis-Shoes
 [Github](https://github.com/Raiyan78/Artemis-Shoes)
