@@ -43,6 +43,7 @@ The idea of planned behavior, a psychological framework, and machine learning ha
 
 ### Artemis-Shoes
 [Github](https://github.com/Raiyan78/Artemis-Shoes)
+
 This was developed as a part of our Junior Design Course(CSE299). Our project features Django Rest API as the robust backend and React at the forefront. We offer latest trends with the scalability of Django and the dynamic responsiveness of React, setting a new standard for the convergence of technology.
 
 
