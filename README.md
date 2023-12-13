@@ -4,7 +4,7 @@
 
 
 ## Education 			        		
-- B.S.CSE(Cgpa: 3.79) | North South University (_Jun 2023_)
+- B.S.CSE | (Cgpa: 3.79) | North South University (_Jun 2023_)
 
 ## Work Experience
 **Teaching Assistant @ North South University (_June 2022 - Sep 2022_)**
