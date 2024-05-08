@@ -9,7 +9,7 @@
 ## Work Experience
 **Research Assistant @ North South University (_Feb 2024 - _)**
 - Working on behavioral and predictive modeling in economics, using machine learning and deep learning.
-- 
+
 **Teaching Assistant @ North South University (_June 2022 - Sep 2022_)**
 - Assisting faculty with course material and assessment. 
 - Proctored examinations alongside assigned faculty.
