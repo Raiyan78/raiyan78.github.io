@@ -40,6 +40,7 @@ The idea of planned behavior, a psychological framework, and machine learning ha
 ![Radar plot](/assets/img/Radarplot.png)
 ![Confusion matrix](/assets/img/ConfusionMatrix.png)
 ![Learning Curve](/assets/img/learningcurve.png)
+<a href="https://www.scimagojr.com/journalsearch.php?q=10600153309&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=10600153309" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 ### Artemis-Shoes
 [Github](https://github.com/Raiyan78/Artemis-Shoes)
